@@ -41,10 +41,9 @@ p {
 aside {
     background-color: #B2C2B5;
     padding: 15px;
-    margin-top: 20px;
-    margin-bottom: -20px;
-    margin-left: -20px;
-    margin-right: -20px;
+    float: right;
+    width: 30%;
+    margin-left: 0px;
 }
 
 aside li {
@@ -58,6 +57,10 @@ figure {
 
 figure img {
     border-radius: 200px;
+}
+
+footer {
+    margin-top: 40px;
 }
 
 
